@@ -1,7 +1,10 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-
+@font-face{
+	font-family:'Libre Baskerville', serif;
+	src: url(https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap)
+}
 /*////////// Global Styles //////////*/
 
 body {
@@ -18,3 +21,55 @@ body {
 }
 
 /* Write all remaining styles here */
+.heading{
+	color:rgb(152,173,166);
+	font-family: 'Libre Baskerville', serif;
+}
+.heading a{
+	color:rgb(152,173,166);
+	font-size: 65px;
+    font-weight: bold;
+	font-family: 'Libre Baskerville', serif;
+	text-decoration: none !important;
+}
+.heading a:hover{
+	color:rgb(111,127,122);
+}
+.wrapper img {
+	align-items: center;
+	border: 5px solid rgb(152,173,166);
+}
+h2 {
+	color:rgb(111,127,122);
+	font-weight: bold;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 30px;
+}
+.about p{
+	color:#555;
+}
+.about a{
+	color: #1783bb;
+	text-decoration: none;
+}
+.about a:hover{
+	text-decoration: underline;
+}
+.press{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		align-items: center;
+		align-content: center;
+}
+
+.press a:hover img{
+	border: 5px solid rgb(111,127,122);
+
+}
+footer p{
+	text-align: right;
+	color:#555;
+	font-size: 10px;
+}
