@@ -10,6 +10,7 @@ body {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif; 
+	font-weight: lighter;
 }
 
 .neck img {
@@ -44,8 +45,31 @@ h2, h1, hr, footer {
 footer p{
 	background-color: white;
 	margin: 0 auto;
-	padding: 0 45px 50px;
+	padding: 20px 45px 50px;
 	width: 960px;
 	text-align: right;
+	color:#788782;
 }
+
+h2 {
+	font-weight: bolder;
+	font-size: 200%;
+	color: #788782;
+}
+
+.learn a {
+	text-decoration: none;
+}
+.learn a:hover {
+color:#788782;
+text-decoration: underline;
+}
+
+.pressbox img:hover {
+	border: 5px #788782 solid;
+}
+.pressbox img {
+	border: 5px rgb(163, 186, 184) solid;
+}
+
 /* Write all remaining styles here */
