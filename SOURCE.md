@@ -19,7 +19,7 @@ Mary's jewelry has received recognition and has been featured in the National Mu
 
 <!-- level 2 header -->
 Press
-
+    
 <!-- press images -->
 [nmai-logo.png]<!-- links to: http://nmai.si.edu -->
 [times-logo.png]<!-- links to: http://www.nytimes.com/pages/t-magazine/ -->
