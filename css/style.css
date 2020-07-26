@@ -18,3 +18,44 @@ body {
 }
 
 /* Write all remaining styles here */
+h1{
+
+}
+
+#press img{
+	border: 5px #ccc solid;
+	padding: 1px;
+}
+#press img:hover{
+	border:5px gray solid;
+	padding:1px;
+}
+
+.small {
+text-align: right;
+color:#D2CCD3;
+background:white;;
+}
+
+p{
+	color:#B0BFB2;
+}
+h2{color:#6F7F7A}
+
+h1 a{
+color:#98ADA6;
+font-size:2em;
+font-family: 'Baskerville', serif;
+text-decoration: none;
+}
+h1 a:hover{
+	color: rgb(111,127,122);
+}
+
+hr{
+border-color: #98ADA6;
+border-width:0.1px;
+}
+.about img{
+	border:5px #98ADA6 solid;
+}
