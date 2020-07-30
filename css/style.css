@@ -17,4 +17,58 @@ body {
 	padding: 0 45px 20px;
 }
 
+
 /* Write all remaining styles here */
+h1{
+	color:#98ADA6;
+	font-size: 5em;
+}
+
+h1 a:link,h1 a:visited{
+  text-decoration: none;
+  color:#98ADA6;
+}
+h1 a:hover{
+	color:#6F7F7A;
+}
+hr{
+	color:#cccccc;
+}
+h2 {
+	color:#6F7F7A;
+}
+
+#necklace {
+	border:5px solid #98ADA6;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+#learn-link{
+text-decoration: none;
+color:#4F9BC9;
+}
+#learn-link:hover{
+text-decoration:underline;
+}
+#copyrights{
+	columns: #555555;
+	display:flex;
+	float:right;
+	font-size:12px;
+
+}
+
+.press-logo{
+	border:5px solid #cccccc; 
+}
+.press-logo:hover{
+border-color:  #6F7F7A;
+}
+
+p{
+	font-size: 16px;
+	color:#555555;
+	margin-bottom: 20px;
+}
