@@ -10,13 +10,11 @@
 This lab challenges you to build an Etsy clone, 'Zetsy', by writing
 your own HTML & CSS from scratch to match the mockup image:
 
-
 ## What We Want:
 
 <p align="center">
 <img src="https://curriculum-content.s3.amazonaws.com/fewds-css/fe-zetsy-complete.jpg">
 </p>
-
 
 ## Instructions
 
@@ -33,7 +31,7 @@ use your Google-Fu to complete the challenge!
 
 ## Resources
 
- * [Zetsy live page example](http://learn-co-curriculum.github.io/fe-zetsy/)
- * [Bonus: CSS3 Transitions](http://css-tricks.com/almanac/properties/t/transition/)
- * [Dev Tools Tutorial](http://code.tutsplus.com/tutorials/chrome-dev-tools-markup-and-style--net-27149)
- * [Digital Color Meter Tutorial](http://www.techrepublic.com/blog/apple-in-the-enterprise/discover-the-digitalcolor-meter-tool-on-your-mac/#)
+- [Zetsy live page example](http://learn-co-curriculum.github.io/fe-zetsy/)
+- [Bonus: CSS3 Transitions](http://css-tricks.com/almanac/properties/t/transition/)
+- [Dev Tools Tutorial](http://code.tutsplus.com/tutorials/chrome-dev-tools-markup-and-style--net-27149)
+- [Digital Color Meter Tutorial](http://www.techrepublic.com/blog/apple-in-the-enterprise/discover-the-digitalcolor-meter-tool-on-your-mac/#)
