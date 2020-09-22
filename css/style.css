@@ -18,3 +18,53 @@ body {
 }
 
 /* Write all remaining styles here */
+p {
+	color: rgb(102,130,137);
+}
+
+/* jumbo picture */
+#jumbotron img {
+	border: 3px solid rgb(143,163,158);
+	width: 100%;
+}
+
+/* Text Section */
+
+#about a {
+	color: rgb(0,119,184);
+	text-decoration: none;
+}
+#about a:hover {
+	text-decoration: underline;
+}
+
+/* Press Section */
+section img {
+	border: 3px solid rgb(194,196,197);
+	width: 24%;
+}
+
+#press img:hover {
+	border: 3px solid rgb(107,122,118);
+	transition: border 2s ease-out;
+}
+
+
+/* Headers */
+h1 {
+	color: rgb(143,163,158);
+	font-family: 'Baskerville', serif;
+}
+
+h2 {
+	color: rgb(96,113,113)
+	}
+
+/* Footer */	
+
+footer {
+	text-align: right;
+	font-size: .75em;
+	padding-bottom: 3em;
+
+} 
