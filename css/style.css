@@ -8,6 +8,7 @@ body {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif; 
+	color: #75827d;
 }
 
 .wrapper {
@@ -18,3 +19,12 @@ body {
 }
 
 /* Write all remaining styles here */
+
+#necklace{
+	border-color: #75827d;
+	border: 3px;
+}
+
+#copyright{
+	color: black;
+}
