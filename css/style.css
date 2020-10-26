@@ -1,6 +1,16 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+h1 {
+	color: rgb(152, 172, 166);
+
+}
+
+h2 {
+	color: rgb(152, 172, 166);
+	font-size: 2em;
+}
+
 
 /*////////// Global Styles //////////*/
 
@@ -10,6 +20,7 @@ body {
 	font-family: 'Times New Roman', serif; 
 }
 
+
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
@@ -17,4 +28,14 @@ body {
 	padding: 0 45px 20px;
 }
 
+.imagesBorder {
+	border: 3px solid rgb(145, 141, 141);
+}
+
+.imagesBorder:hover{
+	border-color: rgb(57, 56, 56);
+   
+   }
+
 /* Write all remaining styles here */
+
