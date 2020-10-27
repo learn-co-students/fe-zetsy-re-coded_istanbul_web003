@@ -18,3 +18,13 @@ body {
 }
 
 /* Write all remaining styles here */
+
+
+.imagesBorder {
+	border: 3px solid rgb(167, 162, 162);
+}
+
+.imagesBorder:hover{
+	border-color: rgb(46, 45, 45);
+   
+   }
